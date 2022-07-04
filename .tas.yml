@@ -1,6 +1,6 @@
 ---
 framework: jest
-tier: large
+tier: small
 preRun:
      command:
         - yarn install
